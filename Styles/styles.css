@@ -23,6 +23,7 @@ body {
 .about {
     margin-bottom: 40px;
     }
+
 .about-position {
     font-style: normal;
     font-weight: bold;
@@ -30,7 +31,6 @@ body {
     line-height: 17px;
     color: #000000;
     margin-bottom: 20px;
-
 }
 
 .about-name {
@@ -49,8 +49,6 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #000000;
-    width: 400px;
-
 }
 
 /* project styles */
@@ -219,7 +217,7 @@ body {
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
-    color: #565e6a;
+    color: #c8c8c8;
 }
 
 .tech-skills-list {
